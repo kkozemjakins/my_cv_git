@@ -1,11 +1,11 @@
 # Curriculum Vitae
-#### Foto
+####
 ![sv foto](https://d.radikal.ru/d17/2102/71/32ba5c7ee5af.png)
 #### Kirils Kožemjakins (dz. 2005. Gada 17 augustā)
-Adrese: Rīga, Kurzemes prospekts 130,LV-1069
-E-pasts: _kkozemjakins@gmail.com_
-Tālrunis:_+37125256268_
-Dzīmis: 2005. Gada 17 augustā
+* Adrese: Rīga, Kurzemes prospekts 130,LV-1069
+* E-pasts: _kkozemjakins@gmail.com_
+* Tālrunis:_+37125256268_
+* Dzīmis: 2005. Gada 17 augustā
 
 ## Izglītība
 * 2012.-2020. g. Rīgas Ostvalda vidusskola
