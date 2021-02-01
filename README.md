@@ -1,7 +1,7 @@
 # my_cv_git
 Kirils Kožemjakins
-![GitHub Logo](/my foto.jpg)
-Format: ![Alt Text](url)
+![My foto sv](/logo.png)
+Format: ![My foto sv](url)
 ## Izglītība
 2012.-2020. g. Rīgas Ostvalda vidusskola
 2020.-2024. g PIKC Rīgas Vasts tehnikums Programmešanas tehniķis 3.profesionālās kvalifikācijas līmenis
