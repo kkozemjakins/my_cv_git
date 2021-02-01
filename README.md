@@ -1,9 +1,10 @@
 # Curriculum Vitae
-#### Kirils Kožemjakins (dz. 2005. Gada 17 augustā)
+#### Foto
 ![sv foto](https://d.radikal.ru/d17/2102/71/32ba5c7ee5af.png)
+#### Kirils Kožemjakins (dz. 2005. Gada 17 augustā)
 Adrese: Rīga, Kurzemes prospekts 130,LV-1069
-E-pasts: __kkozemjakins@gmail.com__
-Tālrunis:__+37125256268__
+E-pasts: _kkozemjakins@gmail.com_
+Tālrunis:_+37125256268_
 Dzīmis: 2005. Gada 17 augustā
 
 ## Izglītība
@@ -15,8 +16,8 @@ Dzīmis: 2005. Gada 17 augustā
 * Man arī patīk lasīt fantastiku, Nakts Dozor, Melngali utt.
 
 ## Pieredze programēšanā
-Brīvajā laikā nodarbojas ar programmēšanu. Man programmēšana ir vairāk nekā hobijs vai darbs.
-Es zinu šādas programmēšanas valodas kā: HTML un Python.
+* Brīvajā laikā nodarbojas ar programmēšanu. Man programmēšana ir vairāk nekā hobijs vai darbs.
+* Es zinu šādas programmēšanas valodas kā: HTML un Python.
 ## Valodu prasmes:
 * Krievu valoda - dzimta
 * Latviešu valoda - labi
