@@ -1,6 +1,6 @@
 # my_cv_git
 Kirils Kožemjakins
-![My foto sv](https://b.radikal.ru/b21/2102/3e/f41ed99ae348.png)
+![My foto sv](https://a.radikal.ru/a19/2102/f4/cb47dbcc51ba.png)
 
 ## Izglītība
 2012.-2020. g. Rīgas Ostvalda vidusskola
