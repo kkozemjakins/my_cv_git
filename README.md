@@ -1,10 +1,10 @@
 # my_cv_git
-### Kirils Kožemjakins
+#### Kirils Kožemjakins
 ![My foto sv](https://a.radikal.ru/a19/2102/f4/cb47dbcc51ba.png)
 
 ## Izglītība
-### 2012.-2020. g. Rīgas Ostvalda vidusskola
-### 2020.-2024. g PIKC Rīgas Vasts tehnikums Programmešanas tehniķis 3.profesionālās kvalifikācijas līmenis
+#### 2012.-2020. g. Rīgas Ostvalda vidusskola
+#### 2020.-2024. g PIKC Rīgas Vasts tehnikums Programmešanas tehniķis 3.profesionālās kvalifikācijas līmenis
 
 
 
@@ -15,3 +15,5 @@
 
 
 ## Pieredze programēšanā
+#### Brīvajā laikā nodarbojas ar programmēšanu. Man programmēšana ir vairāk nekā hobijs vai darbs.
+#### Es zinu šādas programmēšanas valodas kā: HTML un Python
